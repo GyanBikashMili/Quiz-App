@@ -1,4 +1,4 @@
-# Quiz- APP (Football Edition)
+# Quiz- App (Football Edition)
 
 **This is the second assignment given by Saumya Singh on YouTube in lecture 19, and I have successfully completed it.** <br>
 Assignment link: [Lecture 19: Fully Functional App](https://www.youtube.com/watch?v=TZBIkqW5Cgg&list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8&index=26&t=3s).<br>
